@@ -117,11 +117,11 @@
 	},
 	"sources": {
 		"contracts/easyBank.sol": {
-			"keccak256": "0xaf29ad08bfa129b0ce2ab0fb07d80fd30ca482484f8f546d0a6086cb38a37ff9",
+			"keccak256": "0xce5add94924f3497e43329fd8968557f70db8c2605f27c8998f060e1883c220b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bfa58f00fa7f11abde0fa292fadcb41a4aacdf3a931e5bb1387026de051a1834",
-				"dweb:/ipfs/Qme548fpsiywvQkyurdLR4c4ivorGVas45W4VhyMPKJ7qG"
+				"bzz-raw://4bc720e13ccdb17cf343140430a892349ce14d4051d1602a6fb587f481a0da94",
+				"dweb:/ipfs/QmUksQBmKUTPZejrYjhqhDgJtjwhRBHKMfsX9QdJiqHezU"
 			]
 		}
 	},
